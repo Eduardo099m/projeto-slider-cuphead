@@ -1,0 +1,29 @@
+@media (max-width: 620px) {
+    .slider {
+        padding: 0pc 15px;
+        gap: 10px;
+    }
+    .btn_seta {
+        width: 20px;
+        height: 20px;
+        padding: 20px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .lista {
+        height: 480px;
+        
+    }
+    .cartao .img_pers{
+        max-height:  230px;
+
+    }
+    .cartao .info .nome{
+        max-width: 50%;
+        font-size: 18px;
+    }
+    .cartao .info .hp{
+        font-size: 14px;
+    }
+}
